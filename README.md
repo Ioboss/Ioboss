@@ -21,4 +21,4 @@
 
 - 🌱 I’m currently learning Python, Django e um pouco de HTML.
 - 🤔 I’m looking for help with minha primeira vaga.
--->
+
