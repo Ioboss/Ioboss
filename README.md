@@ -17,8 +17,3 @@
     <a href="https://instagram.com/vitorlobos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/vitor-l-b80047144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
-
-- 🌱 I’m currently learning Python, Django e um pouco de HTML.
-- 🤔 I’m looking for help with minha primeira vaga.
-
